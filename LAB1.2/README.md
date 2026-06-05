@@ -1,4 +1,4 @@
-# DESAFIO 1.b — "Hello Docker!"
+# DESAFIO 1.2 — "Hello Docker!"
 ✅ Objetivo
 
 Criar e rodar uma aplicação web simples (Node.js ou Python) dentro de um container Docker usando um Dockerfile básico
