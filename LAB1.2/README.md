@@ -9,7 +9,7 @@ Criar e rodar uma aplicação web simples (Node.js ou Python) dentro de um conta
 docker build -t hello-docker-b .
 
 # Executar o container
-docker run -d -p 5000:5000 --name hello-docker-app hello-docker-b
+docker run -d -p 5000:5000 --name hello-docker-app.2 hello-docker
 
 
 # Acesse via browser
