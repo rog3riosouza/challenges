@@ -1,7 +1,9 @@
-# DESAFIO 1 — "Hello Docker!"
+# DESAFIO 1 — "Hello Docker!" - Usando Node.js
 ✅ Objetivo
 
-Criar e rodar uma aplicação web simples (Node.js ou Python) dentro de um container Docker usando um Dockerfile básico
+Criar e rodar uma aplicação web simples Node.js dentro de um container Docker usando um Dockerfile básico
+
+# Esta aplicação roda em Node.js
 
 # Build da imagem
 docker build -t hello-docker .
