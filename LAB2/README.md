@@ -1,6 +1,6 @@
-DESAFIO 2 — Nível Intermediário - (Nginx + Node.js + PostgreSQL)
+# DESAFIO 2 — Nível Intermediário - (Nginx + Node.js + PostgreSQL)
 
-Agora vamos montar um ambiente completo usando Docker Compose:
+- Agora vamos montar um ambiente completo usando Docker Compose:
 
 ✔ Servidor Web (Nginx)
 ✔ App (Node.js)
@@ -9,4 +9,4 @@ Agora vamos montar um ambiente completo usando Docker Compose:
 ✔ Volumes persistentes
 ✔ Comunicação entre containers via hostname
 
-Esse é o tipo de arquitetura usada na maioria dos ambientes modernos.
+- Esse é o tipo de arquitetura usada na maioria dos ambientes modernos.
